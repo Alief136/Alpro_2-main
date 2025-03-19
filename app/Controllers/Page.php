@@ -12,7 +12,7 @@ class Page extends Controller
             'nama' => 'Muchammad Alief Rizqi Putra Abdillah',
             'nim' => '4123026',
             'prodi' => 'Sistem Informasi',
-            'universitas' => 'UNIPDU'
+            'universitas' => 'UNIPDU jombang s'
         ];
 
         return view('biodata', $data);
